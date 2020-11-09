@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="139a98fd-31ae-4f1b-8e76-559e7d84b991" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1j25zfO4AvIyJ58134IO3n1VczC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\qhzhuang\PycharmProjects\DIPhomework\Chapter02" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.进程demo">
+    <configuration name="chap_03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DIPhomework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter02" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter02/chap_03.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="client" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DIPhomework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter02" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter02/client.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="进程demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DIPhomework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter02" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter02/进程demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="server" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DIPhomework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter02" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter02/server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testground" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DIPhomework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testground.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.进程demo" />
+        <item itemvalue="Python.server" />
+        <item itemvalue="Python.chap_03" />
+        <item itemvalue="Python.testground" />
+        <item itemvalue="Python.client" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="139a98fd-31ae-4f1b-8e76-559e7d84b991" name="Default Changelist" comment="" />
+      <created>1602989609569</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602989609569</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2354" y="458" key="FileChooserDialogImpl" timestamp="1603286451872">
+      <screen x="1920" y="0" width="1280" height="984" />
+    </state>
+    <state x="651" y="484" key="FileChooserDialogImpl/1920.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1603202625926" />
+    <state x="2354" y="458" key="FileChooserDialogImpl/1920.0.1280.984/0.0.1920.1040@1920.0.1280.984" timestamp="1603286451872" />
+    <state width="1899" height="339" key="GridCell.Tab.0.bottom" timestamp="1604843912573">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="339" key="GridCell.Tab.0.bottom/1920.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1604843912573" />
+    <state width="1259" height="263" key="GridCell.Tab.0.bottom/1920.0.1280.984/0.0.1920.1040@1920.0.1280.984" timestamp="1602994396327" />
+    <state width="1899" height="339" key="GridCell.Tab.0.center" timestamp="1604843912573">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="339" key="GridCell.Tab.0.center/1920.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1604843912573" />
+    <state width="1259" height="263" key="GridCell.Tab.0.center/1920.0.1280.984/0.0.1920.1040@1920.0.1280.984" timestamp="1602994396327" />
+    <state width="1899" height="339" key="GridCell.Tab.0.left" timestamp="1604843912573">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="339" key="GridCell.Tab.0.left/1920.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1604843912573" />
+    <state width="1259" height="263" key="GridCell.Tab.0.left/1920.0.1280.984/0.0.1920.1040@1920.0.1280.984" timestamp="1602994396327" />
+    <state width="1899" height="339" key="GridCell.Tab.0.right" timestamp="1604843912573">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="339" key="GridCell.Tab.0.right/1920.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1604843912573" />
+    <state width="1259" height="263" key="GridCell.Tab.0.right/1920.0.1280.984/0.0.1920.1040@1920.0.1280.984" timestamp="1602994396327" />
+    <state width="1899" height="301" key="GridCell.Tab.1.bottom" timestamp="1604843817009">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="301" key="GridCell.Tab.1.bottom/1920.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1604843817009" />
+    <state width="1259" height="325" key="GridCell.Tab.1.bottom/1920.0.1280.984/0.0.1920.1040@1920.0.1280.984" timestamp="1602991162450" />
+    <state width="1899" height="301" key="GridCell.Tab.1.center" timestamp="1604843817009">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="301" key="GridCell.Tab.1.center/1920.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1604843817009" />
+    <state width="1259" height="325" key="GridCell.Tab.1.center/1920.0.1280.984/0.0.1920.1040@1920.0.1280.984" timestamp="1602991162450" />
+    <state width="1899" height="301" key="GridCell.Tab.1.left" timestamp="1604843817009">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="301" key="GridCell.Tab.1.left/1920.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1604843817009" />
+    <state width="1259" height="325" key="GridCell.Tab.1.left/1920.0.1280.984/0.0.1920.1040@1920.0.1280.984" timestamp="1602991162450" />
+    <state width="1899" height="301" key="GridCell.Tab.1.right" timestamp="1604843817009">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="301" key="GridCell.Tab.1.right/1920.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1604843817009" />
+    <state width="1259" height="325" key="GridCell.Tab.1.right/1920.0.1280.984/0.0.1920.1040@1920.0.1280.984" timestamp="1602991162450" />
+    <state x="2004" y="115" key="SettingsEditor" timestamp="1603272306130">
+      <screen x="1920" y="0" width="1280" height="984" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/1920.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1603202758535" />
+    <state x="2004" y="115" key="SettingsEditor/1920.0.1280.984/0.0.1920.1040@1920.0.1280.984" timestamp="1603272306130" />
+    <state x="701" y="162" key="refactoring.ChangeSignatureDialog" timestamp="1604649099906">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="701" y="162" key="refactoring.ChangeSignatureDialog/1920.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1604649099906" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1604459242974">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/1920.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1604459242974" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Chapter02/进程demo.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="x" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
